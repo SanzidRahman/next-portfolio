@@ -3,7 +3,7 @@ import SectionHeading from "./section-heading";
 
 export default function Skill() {
   return (
-    <section>
+    <section id="skills" className="scroll-mt-28">
 
         <SectionHeading>MySkill</SectionHeading>
         <ul className="flex flex-wrap justify-center items-center max-w-[40rem]">

@@ -10,7 +10,7 @@ import SectionDivider from "./sectionDivider";
 
 export default function Experience() {
   return (
-    <section>
+    <section className="scroll-mt-20" id="experience">
         <SectionDivider>MyExperience</SectionDivider>
       
       <VerticalTimeline lineColor="rgba(0, 0, 0,0.3)">

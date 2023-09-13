@@ -2,7 +2,7 @@ import SectionHeading from "./section-heading";
 
 export default function Contact() {
   return (
-    <section>
+    <section className="scroll-mt-28" id="contact">
       <SectionHeading>Contact Me</SectionHeading>
       <p className="text-center">Please contact me at md.sanzid@gmail.com</p>
 

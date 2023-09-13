@@ -7,7 +7,7 @@ import Photo from "../../public/assects/logo-white.png";
 
 export default function Intro() {
   return (
-    <section className="mb-28 max-w-[50rem] text-center sm:mb-0">
+    <section  className=" mb-28 max-w-[50rem] text-center sm:mb-0">
       <div className="flex justify-center items-center">
         <div>
           <Image

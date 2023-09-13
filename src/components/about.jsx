@@ -2,7 +2,7 @@ import SectionHeading from "./section-heading";
 
 export default function About() {
   return (
-    <section className="mb-10 text-center max-w-[45rem] ">
+    <section className="mb-10 text-center max-w-[45rem] scroll-mt-28" id="about">
        <SectionHeading>About</SectionHeading>
         <p >
         {" "}
